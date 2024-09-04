@@ -24,5 +24,5 @@
 **Contacts**
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavonobregab/)](https://www.linkedin.com/in/gustavonobregab/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavonobg@gmail.com)](mailto:gustavonobg@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavonobg@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavonobg@gmail.com)](mailto:gustavonobg@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Gustavonobregab)
