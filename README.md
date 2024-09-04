@@ -2,6 +2,6 @@
 
 ### Hi!, my name is Gustavo Nóbrega!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Gustavo Nóbrega&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 
 <p>Working at SouJúnior // Back-end Software Developer</p>
