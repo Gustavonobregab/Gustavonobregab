@@ -1,6 +1,6 @@
 ##   Gustavo Nóbrega
 
-- 💼 Software Backend Developer at SouJúnior Company.
+- 💼 Software Backend Developer at F3rm3nt0.io
 - 🎓 Computer Science Student.
 
 ## My Current Stack
